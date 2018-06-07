@@ -4,7 +4,8 @@ using System.Text;
 
 namespace proconsole
 {
-    class search
+    public class search
     {
+
     }
 }
